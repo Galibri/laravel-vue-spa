@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/1dfcSB9/my-spa.png" width="400"></p>
+<p align="center"><img src="https://i.ibb.co/1dfcSB9/my-spa.png" width="100%"></p>
 
 ## About this APP
 
